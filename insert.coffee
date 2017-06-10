@@ -3,5 +3,6 @@ _.extend Settings.insert.abbreviations,
     addresses: 'addrs'
     message: 'msg'
     parameter: 'param'
+    response: 'res'
     userid: 'uid'
     username: 'uname'
