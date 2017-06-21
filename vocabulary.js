@@ -29,6 +29,7 @@ Settings.vocabulary = {
     'damon': 'daemon',
     'engine x': 'nginx',
     'keith': 'key',
+    'lenox': 'linux',
     'jason': 'json',
     'okay': 'ok',
     'prock file': 'procfile',
