@@ -35,7 +35,7 @@ Settings.vocabulary = {
     'prock file': 'procfile',
     'pseudo-': 'sudo',
     'route': 'root',
-    'yam': 'iam'
+    'yam': 'iam',
     'wallace': 'wallets'
   },
   sequences: { // common sequences of commands
