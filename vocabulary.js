@@ -36,6 +36,7 @@ Settings.vocabulary = {
     'pseudo-': 'sudo',
     'route': 'root',
     'yam': 'iam'
+    'wallace': 'wallets'
   },
   sequences: { // common sequences of commands
     'symbols:slash': ['repetition:command-2'], // reinforcing 🔉slash soup🔉  for javascript comments
