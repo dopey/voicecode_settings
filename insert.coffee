@@ -1,4 +1,5 @@
 _.extend Settings.insert.abbreviations,
+    error: 'err'
     address: 'addr'
     addresses: 'addrs'
     message: 'msg'
