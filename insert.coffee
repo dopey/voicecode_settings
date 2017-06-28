@@ -1,7 +1,8 @@
 _.extend Settings.insert.abbreviations,
-    error: 'err'
     address: 'addr'
     addresses: 'addrs'
+    config: 'cfg'
+    error: 'err'
     message: 'msg'
     parameter: 'param'
     response: 'res'
