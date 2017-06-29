@@ -4,6 +4,7 @@ _.extend Settings.insert.abbreviations,
     config: 'cfg'
     error: 'err'
     message: 'msg'
+    package: 'pkg'
     parameter: 'param'
     response: 'res'
     userid: 'uid'
