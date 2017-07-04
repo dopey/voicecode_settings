@@ -3,6 +3,7 @@ _.extend Settings.insert.abbreviations,
     addresses: 'addrs'
     config: 'cfg'
     error: 'err'
+    format: 'fmt'
     message: 'msg'
     package: 'pkg'
     parameter: 'param'
