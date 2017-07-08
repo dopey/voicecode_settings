@@ -2,6 +2,7 @@ _.extend Settings.insert.abbreviations,
     address: 'addr'
     addresses: 'addrs'
     config: 'cfg'
+    context: 'ctx'
     error: 'err'
     format: 'fmt'
     message: 'msg'
