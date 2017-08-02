@@ -8,6 +8,7 @@ _.extend Settings.insert.abbreviations,
     message: 'msg'
     package: 'pkg'
     parameter: 'param'
+    pointer: 'ptr'
     response: 'res'
     userid: 'uid'
     username: 'uname'
