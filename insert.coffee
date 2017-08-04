@@ -1,6 +1,7 @@
 _.extend Settings.insert.abbreviations,
     address: 'addr'
     addresses: 'addrs'
+    boolean: 'bool'
     config: 'cfg'
     context: 'ctx'
     error: 'err'
