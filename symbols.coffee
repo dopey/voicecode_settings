@@ -7,7 +7,7 @@ Packages.await 'symbols', (otherPackage) ->
     otherPackage.commands
         'colon-equal':
             enabled: true
-            spoken: 'colqual'
+            spoken: 'coleek'
             description: ' := '
             action: ->
                 @string ' := '
