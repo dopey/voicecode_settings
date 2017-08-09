@@ -29,6 +29,7 @@ Settings.vocabulary = {
     'consul': 'console',
     'damon': 'daemon',
     'engine x': 'nginx',
+    'gnome': 'num',
     'jason': 'json',
     'keith': 'key',
     'lenox': 'linux',
