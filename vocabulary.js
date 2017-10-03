@@ -22,6 +22,7 @@ Settings.vocabulary = {
   },
   translations: { // text replacement on vc side
     'a sink': 'async',
+    'ant': 'int',
     'at sea': 'etc',
     'bite': 'byte',
     'bites': 'bytes',
