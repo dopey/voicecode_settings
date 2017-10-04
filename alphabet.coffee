@@ -1,4 +1,5 @@
 Settings.alphabet.letters.c = "seek"
+Settings.alphabet.letters.d = "dale"
 Settings.alphabet.letters.k = "kate"
 Settings.alphabet.letters.l = "ella"
 Settings.alphabet.letters.m = "emma"
